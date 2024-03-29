@@ -1,4 +1,4 @@
 # GDevelop-5-Games
-Store some games.
 
+Template:
 https://gd.games/autruonggiang/solitary-property--parking-jam
